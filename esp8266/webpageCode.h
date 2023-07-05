@@ -111,7 +111,7 @@ const char webpageCode[] = R"=====(
   </head>
   <body>
     <div id="cabecalho">
-      <img src="./imgs/logo.png" alt="Logo" width="100px" />
+      <img src="https://github.com/GaussKd0/PrototipoTeiu/blob/main/imgs/logo.png" alt="Logo" width="100px" />
 
       <div class="top">
 
@@ -125,43 +125,43 @@ const char webpageCode[] = R"=====(
 
     <div id="conteudo-principal">
       <div class="box">
-        <img src="./imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque1">
+        <img src="https://github.com/GaussKd0/PrototipoTeiu/blob/main/imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque1">
         <h2 class="tanqueVolume1">Volume Do Tanque</h2>
         <p>BETAINA</p>
       </div>
 
       <div class="box">
-        <img src="./imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque2">
+        <img src="https://github.com/GaussKd0/PrototipoTeiu/blob/main/imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque2">
         <h2 class="tanqueVolume2">Volume Do Tanque</h2>
         <p>LAURIL</p>
       </div>
 
       <div class="box">
-        <img src="./imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque3">
+        <img src="https://github.com/GaussKd0/PrototipoTeiu/blob/main/imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque3">
         <h2 class="tanqueVolume3">Volume Do Tanque</h2>
         <p>ACIDO SULFONICO</p>
       </div>
 
       <div class="box">
-        <img src="./imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque4">
+        <img src="https://github.com/GaussKd0/PrototipoTeiu/blob/main/imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque4">
         <h2 class="tanqueVolume4">Volume Do Tanque</h2>
         <p>HIPOCLORITO DE SODIO</p>
       </div>
 
       <div class="box">
-        <img src="./imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque5">
+        <img src="https://github.com/GaussKd0/PrototipoTeiu/blob/main/imgs/tanque.png alt="BETAINA" width="100" height="100" class="tanque5">
         <h2 class="tanqueVolume5">Volume Do Tanque</h2>
         <p>HIPOCLORITO DE SODIO</p>
       </div>
 
       <div class="box">
-        <img src="./imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque6">
+        <img src="https://github.com/GaussKd0/PrototipoTeiu/blob/main/imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque6">
         <h2 class="tanqueVolume6">Volume Do Tanque</h2>
         <p>SODA CAUSTICA</p>
       </div>
 
       <div class="box">
-        <img src="./imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque7">
+        <img src="https://github.com/GaussKd0/PrototipoTeiu/blob/main/imgs/tanque.png" alt="BETAINA" width="100" height="100" class="tanque7">
         <h2 class="tanqueVolume7">Volume Do Tanque</h2>
         <p>SODA CAUSTICA</p>
       </div>
